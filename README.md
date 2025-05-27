@@ -46,7 +46,7 @@ Frontend: HTML, JavaScript (for voice/text interaction).
 
 6. Use Cases
    
-Helps students learn FSA concepts interactively.
+Helps visually impaired individuals learn FSA concepts interactively.
 
 Assists in automated FSA diagram analysis (e.g., for academic projects).
 
