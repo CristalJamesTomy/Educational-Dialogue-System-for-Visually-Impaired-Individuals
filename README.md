@@ -1,0 +1,2 @@
+This project is a web-based interactive system that processes images of Finite State Automata (FSA) diagrams, extracts their structure (states, transitions, and labels) using computer vision techniques (OpenCV and Tesseract), and provides a voice-enabled chatbot interface (using speech recognition and text-to-speech) to answer questions about the FSA's components, behavior, and basic concepts, helping users understand and analyze the automaton through both visual and auditory feedback.
+
