@@ -10,7 +10,7 @@ import os
 
 app = Flask(__name__)
 
-# ========================== FSA Image Processing Code ==========================
+
 
 def preprocess_image(image_path: str) -> Tuple[np.ndarray, np.ndarray]:
    
